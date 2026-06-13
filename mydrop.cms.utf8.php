@@ -1,8 +1,8 @@
 <?php
 
-const MDCMS_VERSION = '1.1';
-const MDCMS_PASSWORD = '123qwe!@#';
-const MDCMS_DOMAIN = 'industrial-craft2.ru';
+const MDCMS_VERSION = '1.2';
+const MDCMS_PASSWORD = '123qwe';
+const MDCMS_DOMAIN = 'viabit.ru';
 
 session_start();
 
